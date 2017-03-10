@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         // from bugfix branch2
         // from story1
         // from story2
+        // from story2 ok le 
     }
 }
