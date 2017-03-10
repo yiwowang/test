@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // from bugfix branch
         // from bugfix branch2
+        // from story1
     }
 }
